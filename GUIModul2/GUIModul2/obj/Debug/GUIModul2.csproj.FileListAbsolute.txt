@@ -1,0 +1,11 @@
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\bin\Debug\GUIModul2.exe.config
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\bin\Debug\GUIModul2.exe
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\bin\Debug\GUIModul2.pdb
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.csproj.AssemblyReference.cache
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.csproj.SuggestedBindingRedirects.cache
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.Properties.Resources.resources
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.csproj.GenerateResource.cache
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.csproj.CoreCompileInputs.cache
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.exe
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.pdb
+E:\Telkom University\Semester 4\KONSTRUKSI PERANGKAT LUNAK\praktikum\praktikum_kpl\modul2_1302204054\GUIModul2\GUIModul2\obj\Debug\GUIModul2.Form1.resources
